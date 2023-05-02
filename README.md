@@ -1,8 +1,7 @@
-# Voorbeeldproject: ASD project server
-Dit is van het ASD project s1 2022/2023 groep 1 van de HAN te arnhem.
+# Haskell JSON parser
+Voor het vak APP van het semester ASD s1 2022/2023 van de HAN te Arnhem.
 
-In dit project is er een peer 2 peer netwerk ontwikkeld voor een veilingsysteem. Hierin heb ik aan de centrale server gewerkt die toegang geeft tot het peer 2 peer netwerk en helpt dit te onderhouden. Er is gebruikt gemaakt van Spring om de server te draaien en JPA om met de database te communiceren.
+Voor het vak APP was er een practische opdracht om een ander codeerparadigma te leren en hierin een opdracht van voldoende complexiteit uit te programmeren. Hiervoor heb ik gekozen om de voorbeeldopdracht, een JSON parser in Haskell uitprogrammeren, uit te voeren. Dit is me uiteindelijk gelukt en ik heb een 9.8 behaald.
+Ik heb om de parser op te kunnen zetten de video "JSON Parser 100% From Scratch in Haskell (only 111 lines)" https://www.youtube.com/watch?v=N9RUqGYuGfw gebruikt. Zonder deze video zou ik de parser niet hebben kunnen opzetten en uitprogrammeren.
 
-Ik heb niet alleen aan de server gewerkt. Ik heb met drie andere groepsgenoten de server in ongeveer twee weken ontwikkeld. Eén heeft geholpen met de server op te zetten, en de anderen om het op tijd af te hebben terwijl de kwaliteit behouden bleef. We hebben in ieder deel van de server wel wat werk geleverd, dus ik kan niks aanwijzen wat ik en ik alleen heb gemaakt.
-
-Dit project bevat nog niet de SQL bestanden voor de database, dus het kan niet gedraait worden.
+Om de parser uit te kunnen voeren is de Glasgow Haskell Compiler benodigd.

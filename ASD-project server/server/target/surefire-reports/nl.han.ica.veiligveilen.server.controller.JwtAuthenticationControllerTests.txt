@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: nl.han.ica.veiligveilen.server.controller.JwtAuthenticationControllerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.1 s <<< FAILURE! - in nl.han.ica.veiligveilen.server.controller.JwtAuthenticationControllerTests
+testCreateAuthenticationTokenSuccess  Time elapsed: 0.095 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <112695b7-759b-4b98-aef3-e0595d5d24d5> but was: <6959aa5a-5235-4f09-8536-8a679abf7bc5>
+	at nl.han.ica.veiligveilen.server.controller.JwtAuthenticationControllerTests.testCreateAuthenticationTokenSuccess(JwtAuthenticationControllerTests.java:45)
+

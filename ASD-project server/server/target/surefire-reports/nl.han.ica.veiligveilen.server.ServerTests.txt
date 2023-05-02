@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.han.ica.veiligveilen.server.ServerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.55 s - in nl.han.ica.veiligveilen.server.ServerTests
